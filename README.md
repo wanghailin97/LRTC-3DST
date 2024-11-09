@@ -10,5 +10,4 @@ cititation:
   volume={25},
   number={11},
   pages={18673-18687},
-  keywords={Tensors;Spatiotemporal phenomena;Imputation;Transforms;Data models;Matrix decomposition;Detectors;Spatiotemporal traffic data;missing data imputation;low-rankness;spatial local consistency;temporal local consistency;temporal periodicity;spatiotemporal transform},
   doi={10.1109/TITS.2024.3422214}}
